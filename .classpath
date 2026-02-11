@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="s0209_01/src/main/java"/>
+	<classpathentry kind="src" path="s0209_01/src/test/java"/>
+	<classpathentry kind="src" path="s0209_02/src/main/java"/>
+	<classpathentry kind="src" path="s0209_02/src/test/java"/>
+	<classpathentry kind="src" path="s0209_03/src/main/java"/>
+	<classpathentry kind="src" path="s0209_03/src/test/java"/>
+	<classpathentry kind="src" path="s0209_04/src/main/java"/>
+	<classpathentry kind="src" path="s0209_04/src/test/java"/>
+	<classpathentry kind="src" path="s0209_05/src/main/java"/>
+	<classpathentry kind="src" path="s0209_05/src/test/java"/>
+	<classpathentry kind="src" path="s0209_07/src/main/java"/>
+	<classpathentry kind="src" path="s0209_07/src/test/java"/>
+	<classpathentry kind="src" path="s0209_08/src/main/java"/>
+	<classpathentry kind="src" path="s0209_08/src/test/java"/>
+	<classpathentry kind="src" path="s0209_09/src/main/java"/>
+	<classpathentry kind="src" path="s0209_09/src/test/java"/>
+	<classpathentry kind="src" path="s0210_01/src/main/java"/>
+	<classpathentry kind="src" path="s0210_01/src/test/java"/>
+	<classpathentry kind="src" path="s0210_02/src/main/java"/>
+	<classpathentry kind="src" path="s0210_02/src/test/java"/>
+	<classpathentry kind="src" path="s0210_03/src/main/java"/>
+	<classpathentry kind="src" path="s0210_03/src/test/java"/>
+	<classpathentry kind="lib" path="s0209_04/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="s0209_01/target/classes"/>
+</classpath>
